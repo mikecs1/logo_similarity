@@ -1,4 +1,4 @@
-# logo_similarity
+# Logo Similarity
 
 Logo similarity between companies without ML — a lightweight pipeline to extract logos from domains, compute perceptual image hashes, and cluster visually-similar logos.
 
