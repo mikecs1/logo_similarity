@@ -1,0 +1,783 @@
+2025-10-14 22:43:21,366 - src.utils - INFO - Logo Similarity Clustering Pipeline
+2025-10-14 22:43:57,914 - src.utils - INFO - Logo Similarity Clustering Pipeline
+2025-10-14 22:43:58,134 - src.utils - INFO - Extracting logos from 4384 domains...
+2025-10-14 22:43:58,135 - src.utils - INFO - Processing batch 1
+2025-10-14 22:45:15,586 - src.utils - INFO - Processing batch 2
+2025-10-14 22:46:32,589 - src.utils - INFO - Processing batch 3
+2025-10-14 22:46:56,820 - src.utils - INFO - Processing batch 4
+2025-10-14 22:47:22,714 - src.utils - INFO - Logo Similarity Clustering Pipeline
+2025-10-14 22:47:22,749 - src.utils - INFO - Extracting logos from 4384 domains...
+2025-10-14 22:47:22,751 - src.utils - INFO - Processing batch 1
+2025-10-14 22:48:39,594 - src.utils - INFO - Processing batch 2
+2025-10-14 22:49:56,587 - src.utils - INFO - Processing batch 3
+2025-10-14 22:50:12,572 - src.utils - INFO - Processing batch 4
+2025-10-14 22:51:29,589 - src.utils - INFO - Processing batch 5
+2025-10-14 22:52:46,580 - src.utils - INFO - Processing batch 6
+2025-10-14 22:53:21,905 - src.utils - INFO - Processing batch 7
+2025-10-14 22:54:38,580 - src.utils - INFO - Processing batch 8
+2025-10-14 22:55:55,583 - src.utils - INFO - Processing batch 9
+2025-10-14 22:56:01,949 - src.utils - INFO - Processing batch 10
+2025-10-14 22:57:18,577 - src.utils - INFO - Processing batch 11
+2025-10-14 22:57:35,219 - src.utils - INFO - Processing batch 12
+2025-10-14 22:58:52,588 - src.utils - INFO - Processing batch 13
+2025-10-14 23:00:09,566 - src.utils - INFO - Processing batch 14
+2025-10-14 23:00:26,149 - src.utils - INFO - Processing batch 15
+2025-10-14 23:01:43,580 - src.utils - INFO - Processing batch 16
+2025-10-14 23:02:39,585 - src.utils - INFO - Processing batch 17
+2025-10-14 23:02:40,022 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:40,396 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:40,698 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:41,332 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:41,690 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:42,011 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:02:42,343 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-14 23:03:56,579 - src.utils - INFO - Processing batch 18
+2025-10-14 23:04:03,957 - src.utils - INFO - Processing batch 19
+2025-10-14 23:04:20,598 - src.utils - INFO - Processing batch 20
+2025-10-14 23:04:28,267 - src.utils - INFO - Processing batch 21
+2025-10-14 23:05:45,590 - src.utils - INFO - Processing batch 22
+2025-10-14 23:05:54,254 - src.utils - INFO - Processing batch 23
+2025-10-14 23:07:11,582 - src.utils - INFO - Processing batch 24
+2025-10-14 23:08:28,568 - src.utils - INFO - Processing batch 25
+2025-10-14 23:08:36,108 - src.utils - INFO - Processing batch 26
+2025-10-14 23:09:53,578 - src.utils - INFO - Processing batch 27
+2025-10-14 23:11:10,582 - src.utils - INFO - Processing batch 28
+2025-10-14 23:11:17,680 - src.utils - INFO - Processing batch 29
+2025-10-14 23:12:34,581 - src.utils - INFO - Processing batch 30
+2025-10-14 23:12:45,842 - src.utils - INFO - Processing batch 31
+2025-10-14 23:14:02,587 - src.utils - INFO - Processing batch 32
+2025-10-14 23:14:08,692 - src.utils - INFO - Processing batch 33
+2025-10-14 23:15:25,578 - src.utils - INFO - Processing batch 34
+2025-10-14 23:16:42,565 - src.utils - INFO - Processing batch 35
+2025-10-14 23:16:53,602 - src.utils - INFO - Processing batch 36
+2025-10-14 23:18:10,592 - src.utils - INFO - Processing batch 37
+2025-10-14 23:18:31,339 - src.utils - INFO - Processing batch 38
+2025-10-14 23:19:48,583 - src.utils - INFO - Processing batch 39
+2025-10-14 23:20:00,963 - src.utils - INFO - Processing batch 40
+2025-10-14 23:21:17,571 - src.utils - INFO - Processing batch 41
+2025-10-14 23:21:33,750 - src.utils - INFO - Processing batch 42
+2025-10-14 23:22:50,579 - src.utils - INFO - Processing batch 43
+2025-10-14 23:23:34,484 - src.utils - INFO - Processing batch 44
+2025-10-14 23:24:40,587 - src.utils - INFO - Processing batch 45
+2025-10-14 23:24:57,183 - src.utils - INFO - Processing batch 46
+2025-10-14 23:26:14,589 - src.utils - INFO - Processing batch 47
+2025-10-14 23:27:31,584 - src.utils - INFO - Processing batch 48
+2025-10-14 23:27:54,799 - src.utils - INFO - Processing batch 49
+2025-10-14 23:29:11,587 - src.utils - INFO - Processing batch 50
+2025-10-14 23:29:41,500 - src.utils - INFO - Processing batch 51
+2025-10-14 23:30:05,709 - src.utils - INFO - Processing batch 52
+2025-10-14 23:30:13,123 - src.utils - INFO - Processing batch 53
+2025-10-14 23:31:30,592 - src.utils - INFO - Processing batch 54
+2025-10-14 23:32:47,576 - src.utils - INFO - Processing batch 55
+2025-10-14 23:34:04,582 - src.utils - INFO - Processing batch 56
+2025-10-14 23:34:13,166 - src.utils - INFO - Processing batch 57
+2025-10-14 23:34:34,948 - src.utils - INFO - Processing batch 58
+2025-10-14 23:34:45,623 - src.utils - INFO - Processing batch 59
+2025-10-14 23:36:02,570 - src.utils - INFO - Processing batch 60
+2025-10-14 23:36:25,312 - src.utils - INFO - Processing batch 61
+2025-10-14 23:37:42,593 - src.utils - INFO - Processing batch 62
+2025-10-14 23:37:50,860 - src.utils - INFO - Processing batch 63
+2025-10-14 23:38:02,026 - src.utils - INFO - Processing batch 64
+2025-10-14 23:39:18,589 - src.utils - INFO - Processing batch 65
+2025-10-14 23:40:35,573 - src.utils - INFO - Processing batch 66
+2025-10-14 23:41:52,573 - src.utils - INFO - Processing batch 67
+2025-10-14 23:43:09,587 - src.utils - INFO - Processing batch 68
+2025-10-14 23:43:18,570 - src.utils - INFO - Processing batch 69
+2025-10-14 23:44:35,567 - src.utils - INFO - Processing batch 70
+2025-10-14 23:45:52,578 - src.utils - INFO - Processing batch 71
+2025-10-14 23:47:09,576 - src.utils - INFO - Processing batch 72
+2025-10-14 23:48:26,572 - src.utils - INFO - Processing batch 73
+2025-10-14 23:49:43,594 - src.utils - INFO - Processing batch 74
+2025-10-14 23:49:59,903 - src.utils - INFO - Processing batch 75
+2025-10-14 23:51:16,577 - src.utils - INFO - Processing batch 76
+2025-10-14 23:51:32,772 - src.utils - INFO - Processing batch 77
+2025-10-14 23:51:43,605 - src.utils - INFO - Processing batch 78
+2025-10-14 23:53:00,566 - src.utils - INFO - Processing batch 79
+2025-10-14 23:54:17,579 - src.utils - INFO - Processing batch 80
+2025-10-14 23:55:34,569 - src.utils - INFO - Processing batch 81
+2025-10-14 23:56:51,590 - src.utils - INFO - Processing batch 82
+2025-10-14 23:58:08,573 - src.utils - INFO - Processing batch 83
+2025-10-14 23:59:25,575 - src.utils - INFO - Processing batch 84
+2025-10-15 00:00:42,577 - src.utils - INFO - Processing batch 85
+2025-10-15 00:01:53,579 - src.utils - INFO - Processing batch 86
+2025-10-15 00:02:09,725 - src.utils - INFO - Processing batch 87
+2025-10-15 00:03:26,575 - src.utils - INFO - Processing batch 88
+2025-10-15 00:03:31,388 - src.utils - INFO - Extracted 3416/4384 logos
+2025-10-15 00:29:33,949 - src.utils - INFO - ============================================================
+2025-10-15 00:29:33,950 - src.utils - INFO - Logo Similarity Clustering Pipeline
+2025-10-15 00:29:33,950 - src.utils - INFO - ============================================================
+2025-10-15 00:29:33,950 - src.utils - INFO - Loading domains from logos.snappy.parquet...
+2025-10-15 00:29:34,045 - src.utils - INFO - Loaded 4384 domains
+2025-10-15 00:29:34,046 - src.utils - INFO - Extracting logos from 4384 domains...
+2025-10-15 00:29:34,046 - src.utils - INFO - Processing batch 1/220
+2025-10-15 00:30:50,584 - src.utils - INFO - Processing batch 2/220
+2025-10-15 00:34:21,374 - src.utils - INFO - ============================================================
+2025-10-15 00:34:21,375 - src.utils - INFO - Logo Similarity Clustering Pipeline
+2025-10-15 00:34:21,375 - src.utils - INFO - ============================================================
+2025-10-15 00:34:21,376 - src.utils - INFO - Loading domains from logos.snappy.parquet...
+2025-10-15 00:34:21,431 - src.utils - INFO - Loaded 4384 domains
+2025-10-15 00:34:21,431 - src.utils - INFO - Extracting logos from 4384 domains...
+2025-10-15 00:34:21,432 - src.utils - INFO - Processing batch 1/30
+2025-10-15 00:35:24,582 - src.utils - INFO - Processing batch 2/30
+2025-10-15 00:36:27,583 - src.utils - INFO - Processing batch 3/30
+2025-10-15 00:37:30,577 - src.utils - INFO - Processing batch 4/30
+2025-10-15 00:38:33,581 - src.utils - INFO - Processing batch 5/30
+2025-10-15 00:39:36,581 - src.utils - INFO - Processing batch 6/30
+2025-10-15 00:39:37,963 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-15 00:39:38,720 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-15 00:40:39,591 - src.utils - INFO - Processing batch 7/30
+2025-10-15 00:41:42,582 - src.utils - INFO - Processing batch 8/30
+2025-10-15 03:42:40,722 - src.utils - INFO - Processing batch 9/30
+2025-10-15 03:42:41,750 - src.utils - INFO - Processing batch 10/30
+2025-10-15 03:42:42,921 - src.utils - INFO - Processing batch 11/30
+2025-10-15 19:23:12,070 - src.utils - INFO - Processing batch 12/30
+2025-10-15 19:23:13,471 - src.utils - INFO - Processing batch 13/30
+2025-10-15 19:23:14,688 - src.utils - INFO - Processing batch 14/30
+2025-10-15 19:23:15,891 - src.utils - INFO - Processing batch 15/30
+2025-10-15 19:23:17,216 - src.utils - INFO - Processing batch 16/30
+2025-10-15 19:23:18,481 - src.utils - INFO - Processing batch 17/30
+2025-10-15 19:23:19,757 - src.utils - INFO - Processing batch 18/30
+2025-10-15 19:23:21,066 - src.utils - INFO - Processing batch 19/30
+2025-10-15 19:23:22,470 - src.utils - INFO - Processing batch 20/30
+2025-10-15 19:23:23,726 - src.utils - INFO - Processing batch 21/30
+2025-10-15 19:23:24,976 - src.utils - INFO - Processing batch 22/30
+2025-10-15 19:23:26,306 - src.utils - INFO - Processing batch 23/30
+2025-10-15 19:24:30,751 - src.utils - INFO - Processing batch 24/30
+2025-10-16 16:21:55,953 - logo-similarity - INFO - ============================================================
+2025-10-16 16:21:55,953 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 16:21:55,954 - logo-similarity - INFO - ============================================================
+2025-10-16 16:21:55,954 - logo-similarity - INFO - Loading domains from logos.snappy.parquet...
+2025-10-16 16:21:56,113 - logo-similarity - INFO - Loaded 4384 domains
+2025-10-16 16:21:56,114 - logo-similarity - INFO - Extracting logos from 4384 domains...
+2025-10-16 16:21:56,202 - logo-similarity - INFO - Processing batch 1/30
+2025-10-16 16:22:59,434 - logo-similarity - INFO - Processing batch 2/30
+2025-10-16 16:24:02,400 - logo-similarity - INFO - Processing batch 3/30
+2025-10-16 16:25:05,404 - logo-similarity - INFO - Processing batch 4/30
+2025-10-16 16:26:08,391 - logo-similarity - INFO - Processing batch 5/30
+2025-10-16 16:27:11,400 - logo-similarity - INFO - Processing batch 6/30
+2025-10-16 16:27:12,407 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:27:12,711 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:27:13,077 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:27:13,535 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:27:16,218 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:27:16,760 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:28:14,402 - logo-similarity - INFO - Processing batch 7/30
+2025-10-16 16:29:17,396 - logo-similarity - INFO - Processing batch 8/30
+2025-10-16 16:30:20,396 - logo-similarity - INFO - Processing batch 9/30
+2025-10-16 16:31:23,399 - logo-similarity - INFO - Processing batch 10/30
+2025-10-16 16:32:26,400 - logo-similarity - INFO - Processing batch 11/30
+2025-10-16 16:33:29,392 - logo-similarity - INFO - Processing batch 12/30
+2025-10-16 16:34:32,403 - logo-similarity - INFO - Processing batch 13/30
+2025-10-16 16:35:35,392 - logo-similarity - INFO - Processing batch 14/30
+2025-10-16 16:36:38,391 - logo-similarity - INFO - Processing batch 15/30
+2025-10-16 16:37:41,395 - logo-similarity - INFO - Processing batch 16/30
+2025-10-16 16:38:44,393 - logo-similarity - INFO - Processing batch 17/30
+2025-10-16 16:39:47,392 - logo-similarity - INFO - Processing batch 18/30
+2025-10-16 16:40:50,396 - logo-similarity - INFO - Processing batch 19/30
+2025-10-16 16:41:53,396 - logo-similarity - INFO - Processing batch 20/30
+2025-10-16 16:42:56,394 - logo-similarity - INFO - Processing batch 21/30
+2025-10-16 16:43:59,400 - logo-similarity - INFO - Processing batch 22/30
+2025-10-16 16:45:02,397 - logo-similarity - INFO - Processing batch 23/30
+2025-10-16 16:46:05,403 - logo-similarity - INFO - Processing batch 24/30
+2025-10-16 16:47:08,393 - logo-similarity - INFO - Processing batch 25/30
+2025-10-16 16:48:11,392 - logo-similarity - INFO - Processing batch 26/30
+2025-10-16 16:49:14,390 - logo-similarity - INFO - Processing batch 27/30
+2025-10-16 16:50:17,390 - logo-similarity - INFO - Processing batch 28/30
+2025-10-16 16:51:20,397 - logo-similarity - INFO - Processing batch 29/30
+2025-10-16 16:52:23,399 - logo-similarity - INFO - Processing batch 30/30
+2025-10-16 16:52:27,805 - logo-similarity - INFO - Extracted 3416/4384 logos (77.9%)
+2025-10-16 16:52:27,806 - logo-similarity - INFO - Processing 3416 logo images...
+2025-10-16 16:52:50,083 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 16:53:51,298 - logo-similarity - INFO - Successfully processed 2495/3416 logos (73.0%)
+2025-10-16 16:53:51,299 - logo-similarity - INFO - Clustering logos by similarity...
+2025-10-16 16:53:51,302 - src.clusterer - INFO - Clustering 2495 domains with valid logo hashes
+2025-10-16 16:56:08,624 - src.clusterer - INFO - Found 1007 clusters
+2025-10-16 17:02:16,177 - logo-similarity - INFO - ============================================================
+2025-10-16 17:02:16,177 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 17:02:16,178 - logo-similarity - INFO - ============================================================
+2025-10-16 17:02:16,178 - logo-similarity - INFO - Loading domains from logos.snappy.parquet...
+2025-10-16 17:02:16,227 - logo-similarity - INFO - Loaded 4384 domains
+2025-10-16 17:02:16,227 - logo-similarity - INFO - Extracting logos from 4384 domains...
+2025-10-16 17:02:16,237 - logo-similarity - INFO - Processing batch 1/44
+2025-10-16 17:03:33,399 - logo-similarity - INFO - Processing batch 2/44
+2025-10-16 17:04:50,403 - logo-similarity - INFO - Processing batch 3/44
+2025-10-16 17:06:07,383 - logo-similarity - INFO - Processing batch 4/44
+2025-10-16 17:07:24,404 - logo-similarity - INFO - Processing batch 5/44
+2025-10-16 17:08:41,403 - logo-similarity - INFO - Processing batch 6/44
+2025-10-16 17:09:58,395 - logo-similarity - INFO - Processing batch 7/44
+2025-10-16 17:11:15,402 - logo-similarity - INFO - Processing batch 8/44
+2025-10-16 17:12:32,393 - logo-similarity - INFO - Processing batch 9/44
+2025-10-16 17:13:49,393 - logo-similarity - INFO - Processing batch 10/44
+2025-10-16 17:14:55,344 - logo-similarity - INFO - Processing batch 11/44
+2025-10-16 17:16:12,392 - logo-similarity - INFO - Processing batch 12/44
+2025-10-16 17:17:29,398 - logo-similarity - INFO - Processing batch 13/44
+2025-10-16 17:18:46,392 - logo-similarity - INFO - Processing batch 14/44
+2025-10-16 17:20:03,397 - logo-similarity - INFO - Processing batch 15/44
+2025-10-16 17:21:20,385 - logo-similarity - INFO - Processing batch 16/44
+2025-10-16 17:22:37,390 - logo-similarity - INFO - Processing batch 17/44
+2025-10-16 17:23:54,395 - logo-similarity - INFO - Processing batch 18/44
+2025-10-16 17:25:11,379 - logo-similarity - INFO - Processing batch 19/44
+2025-10-16 17:26:28,390 - logo-similarity - INFO - Processing batch 20/44
+2025-10-16 17:27:45,389 - logo-similarity - INFO - Processing batch 21/44
+2025-10-16 17:29:02,396 - logo-similarity - INFO - Processing batch 22/44
+2025-10-16 17:30:19,391 - logo-similarity - INFO - Processing batch 23/44
+2025-10-16 17:31:36,400 - logo-similarity - INFO - Processing batch 24/44
+2025-10-16 17:32:53,402 - logo-similarity - INFO - Processing batch 25/44
+2025-10-16 17:34:10,390 - logo-similarity - INFO - Processing batch 26/44
+2025-10-16 17:34:36,872 - logo-similarity - INFO - Processing batch 27/44
+2025-10-16 17:35:53,403 - logo-similarity - INFO - Processing batch 28/44
+2025-10-16 17:37:10,378 - logo-similarity - INFO - Processing batch 29/44
+2025-10-16 17:37:31,367 - logo-similarity - INFO - Processing batch 30/44
+2025-10-16 17:38:48,395 - logo-similarity - INFO - Processing batch 31/44
+2025-10-16 17:40:05,392 - logo-similarity - INFO - Processing batch 32/44
+2025-10-16 17:41:22,403 - logo-similarity - INFO - Processing batch 33/44
+2025-10-16 17:42:39,391 - logo-similarity - INFO - Processing batch 34/44
+2025-10-16 17:43:56,394 - logo-similarity - INFO - Processing batch 35/44
+2025-10-16 17:45:13,396 - logo-similarity - INFO - Processing batch 36/44
+2025-10-16 17:46:30,393 - logo-similarity - INFO - Processing batch 37/44
+2025-10-16 17:47:47,403 - logo-similarity - INFO - Processing batch 38/44
+2025-10-16 17:49:04,401 - logo-similarity - INFO - Processing batch 39/44
+2025-10-16 17:50:21,390 - logo-similarity - INFO - Processing batch 40/44
+2025-10-16 17:51:38,406 - logo-similarity - INFO - Processing batch 41/44
+2025-10-16 17:52:55,404 - logo-similarity - INFO - Processing batch 42/44
+2025-10-16 17:54:12,404 - logo-similarity - INFO - Processing batch 43/44
+2025-10-16 17:55:27,398 - logo-similarity - INFO - Processing batch 44/44
+2025-10-16 17:56:44,412 - logo-similarity - INFO - Extracted 3416/4384 logos (77.9%)
+2025-10-16 17:56:44,412 - logo-similarity - INFO - Processing 3416 logo images...
+2025-10-16 18:39:54,616 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 18:39:54,619 - logo-similarity - INFO - ===========================================================
+2025-10-16 18:39:54,619 - logo-similarity - INFO - Loading domains from .\logos.small.parquet...
+2025-10-16 18:39:54,751 - logo-similarity - INFO - Loaded 50 domains
+2025-10-16 18:39:54,751 - logo-similarity - INFO - Extracting logos from 50 domains...
+2025-10-16 18:39:54,767 - logo-similarity - INFO - Processing batch 1/3
+2025-10-16 18:41:44,426 - logo-similarity - INFO - Processing batch 2/3
+2025-10-16 18:43:35,392 - logo-similarity - INFO - Processing batch 3/3
+2025-10-16 18:45:25,442 - logo-similarity - INFO - Extracted 50/50 logos (100.0%)
+2025-10-16 18:45:25,442 - logo-similarity - INFO - Processing 50 logo images...
+2025-10-16 18:45:38,190 - logo-similarity - INFO - Successfully processed 30/50 logos (60.0%)
+2025-10-16 18:45:38,191 - logo-similarity - INFO - Clustering logos by similarity...
+2025-10-16 18:45:38,191 - src.clusterer - INFO - Clustering 30 domains with valid logo hashes
+2025-10-16 18:45:38,222 - src.clusterer - INFO - Found 27 clusters
+2025-10-16 19:04:52,765 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 19:04:52,765 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:04:52,765 - logo-similarity - INFO - Loading domains from .\logos.small.parquet...
+2025-10-16 19:04:52,800 - logo-similarity - INFO - Loaded 50 domains
+2025-10-16 19:04:52,801 - logo-similarity - INFO - Extracting logos from 50 domains...
+2025-10-16 19:04:52,808 - logo-similarity - INFO - Processing batch 1/5
+2025-10-16 19:06:42,406 - logo-similarity - INFO - Processing batch 2/5
+2025-10-16 19:06:45,324 - logo-similarity - INFO - Processing batch 3/5
+2025-10-16 19:07:11,868 - logo-similarity - INFO - Processing batch 4/5
+2025-10-16 19:09:01,393 - logo-similarity - INFO - Processing batch 5/5
+2025-10-16 19:10:51,435 - logo-similarity - INFO - Extracted 50/50 logos (100.0%)
+2025-10-16 19:10:51,435 - logo-similarity - INFO - Processing 50 logo images...
+2025-10-16 19:11:13,183 - logo-similarity - INFO - Successfully processed 30/50 logos (60.0%)
+2025-10-16 19:11:13,183 - logo-similarity - INFO - Clustering logos by similarity...
+2025-10-16 19:11:13,183 - src.clusterer - INFO - Clustering 30 domains with valid logo hashes
+2025-10-16 19:11:13,206 - src.clusterer - INFO - Found 27 clusters
+2025-10-16 19:13:29,058 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 19:13:29,059 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:13:29,059 - logo-similarity - INFO - Loading domains from .\logos.small.parquet...
+2025-10-16 19:13:29,133 - logo-similarity - INFO - Loaded 50 domains
+2025-10-16 19:13:29,133 - logo-similarity - INFO - Extracting logos from 50 domains...
+2025-10-16 19:13:29,143 - logo-similarity - INFO - Processing batch 1/10
+2025-10-16 19:14:27,291 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 19:14:27,292 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:14:27,292 - logo-similarity - INFO - Loading domains from .\logos.small.parquet...
+2025-10-16 19:14:27,321 - logo-similarity - INFO - Loaded 50 domains
+2025-10-16 19:14:27,322 - logo-similarity - INFO - Extracting logos from 50 domains...
+2025-10-16 19:14:27,327 - logo-similarity - INFO - Processing batch 1/10
+2025-10-16 19:16:17,391 - logo-similarity - INFO - Processing batch 2/10
+2025-10-16 19:16:20,834 - logo-similarity - INFO - Processing batch 3/10
+2025-10-16 19:16:34,075 - logo-similarity - INFO - Processing batch 4/10
+2025-10-16 19:16:36,588 - logo-similarity - INFO - Processing batch 5/10
+2025-10-16 19:16:59,145 - logo-similarity - INFO - Processing batch 6/10
+2025-10-16 19:16:59,855 - logo-similarity - INFO - Processing batch 7/10
+2025-10-16 19:17:01,593 - logo-similarity - INFO - Processing batch 8/10
+2025-10-16 19:18:51,380 - logo-similarity - INFO - Processing batch 9/10
+2025-10-16 19:18:52,994 - logo-similarity - INFO - Processing batch 10/10
+2025-10-16 19:20:42,392 - logo-similarity - INFO - Extracted 50/50 logos (100.0%)
+2025-10-16 19:20:42,393 - logo-similarity - INFO - Processing 50 logo images...
+2025-10-16 19:20:58,222 - logo-similarity - INFO - Successfully processed 31/50 logos (62.0%)
+2025-10-16 19:20:58,223 - logo-similarity - INFO - Clustering logos by similarity...
+2025-10-16 19:20:58,223 - src.clusterer - INFO - Clustering 31 domains with valid logo hashes
+2025-10-16 19:20:58,256 - src.clusterer - INFO - Found 28 clusters
+2025-10-16 19:20:58,256 - logo-similarity - INFO - Found 28 clusters
+2025-10-16 19:20:58,257 - logo-similarity - INFO - Writing outputs to F:\Proiecte\logoSimilarity-feature-production-implementation\logoSimilarity-feature-production-implementation\output
+2025-10-16 19:20:58,279 - logo-similarity - INFO - - clusters.json: 28 clusters
+2025-10-16 19:20:58,279 - logo-similarity - INFO - - clusters.csv: 31 domain-cluster mappings
+2025-10-16 19:20:58,279 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:20:58,279 - logo-similarity - INFO - Pipeline Complete!
+2025-10-16 19:20:58,279 - logo-similarity - INFO - Total domains: 50
+2025-10-16 19:20:58,280 - logo-similarity - INFO - Logos extracted: 50
+2025-10-16 19:20:58,280 - logo-similarity - INFO - Logos processed: 31
+2025-10-16 19:20:58,280 - logo-similarity - INFO - Clusters found: 28
+2025-10-16 19:20:58,280 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:22:14,020 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-16 19:22:14,020 - logo-similarity - INFO - ===========================================================
+2025-10-16 19:22:14,021 - logo-similarity - INFO - Loading domains from logos.snappy.parquet...
+2025-10-16 19:22:14,318 - logo-similarity - INFO - Loaded 4384 domains
+2025-10-16 19:22:14,318 - logo-similarity - INFO - Extracting logos from 4384 domains...
+2025-10-16 19:22:14,325 - logo-similarity - INFO - Processing batch 1/44
+2025-10-16 19:24:05,402 - logo-similarity - INFO - Processing batch 2/44
+2025-10-16 19:25:59,381 - logo-similarity - INFO - Processing batch 3/44
+2025-10-16 19:27:49,405 - logo-similarity - INFO - Processing batch 4/44
+2025-10-16 19:29:43,401 - logo-similarity - INFO - Processing batch 5/44
+2025-10-16 19:31:35,404 - logo-similarity - INFO - Processing batch 6/44
+2025-10-16 19:33:27,392 - logo-similarity - INFO - Processing batch 7/44
+2025-10-16 19:35:17,392 - logo-similarity - INFO - Processing batch 8/44
+2025-10-16 19:37:08,399 - logo-similarity - INFO - Processing batch 9/44
+2025-10-16 19:37:08,818 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:09,253 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:09,596 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:09,941 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:10,240 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:10,577 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:10,942 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:11,244 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:11,633 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-16 19:37:11,943 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 00:18:36,676 - logo-similarity - INFO - Processing batch 10/44
+2025-10-17 00:18:37,209 - logo-similarity - INFO - Processing batch 11/44
+2025-10-17 00:18:37,773 - logo-similarity - INFO - Processing batch 12/44
+2025-10-17 00:18:38,365 - logo-similarity - INFO - Processing batch 13/44
+2025-10-17 00:18:38,945 - logo-similarity - INFO - Processing batch 14/44
+2025-10-17 00:18:39,439 - logo-similarity - INFO - Processing batch 15/44
+2025-10-17 00:18:39,946 - logo-similarity - INFO - Processing batch 16/44
+2025-10-17 00:18:40,394 - logo-similarity - INFO - Processing batch 17/44
+2025-10-17 00:18:40,858 - logo-similarity - INFO - Processing batch 18/44
+2025-10-17 00:19:05,380 - logo-similarity - INFO - Processing batch 19/44
+2025-10-17 00:21:13,393 - logo-similarity - INFO - Processing batch 20/44
+2025-10-17 00:23:10,383 - logo-similarity - INFO - Processing batch 21/44
+2025-10-17 00:25:04,380 - logo-similarity - INFO - Processing batch 22/44
+2025-10-17 00:26:54,381 - logo-similarity - INFO - Processing batch 23/44
+2025-10-17 00:26:57,202 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-10-17 03:28:42,571 - logo-similarity - INFO - Processing batch 24/44
+2025-10-17 22:09:37,157 - logo-similarity - INFO - Processing batch 25/44
+2025-10-17 22:09:38,297 - logo-similarity - INFO - Processing batch 26/44
+2025-10-17 22:09:39,625 - logo-similarity - INFO - Processing batch 27/44
+2025-10-17 22:10:17,874 - logo-similarity - INFO - Processing batch 28/44
+2025-10-17 22:15:01,239 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-17 22:15:01,239 - logo-similarity - INFO - ===========================================================
+2025-10-17 22:15:01,239 - logo-similarity - INFO - Loading domains from logos.snappy.parquet...
+2025-10-17 22:15:01,428 - logo-similarity - INFO - Loaded 4384 domains
+2025-10-17 22:15:01,428 - logo-similarity - INFO - Extracting logos from 4384 domains...
+2025-10-17 22:15:01,442 - logo-similarity - INFO - Processing batch 1/44
+2025-10-17 22:16:35,199 - logo-similarity - INFO - Processing batch 2/44
+2025-10-17 22:18:17,195 - logo-similarity - INFO - Processing batch 3/44
+2025-10-17 22:19:48,201 - logo-similarity - INFO - Processing batch 4/44
+2025-10-17 22:21:26,181 - logo-similarity - INFO - Processing batch 5/44
+2025-10-17 22:23:02,203 - logo-similarity - INFO - Processing batch 6/44
+2025-10-17 22:24:36,190 - logo-similarity - INFO - Processing batch 7/44
+2025-10-17 22:26:06,200 - logo-similarity - INFO - Processing batch 8/44
+2025-10-17 22:27:38,195 - logo-similarity - INFO - Processing batch 9/44
+2025-10-17 22:27:38,999 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:39,318 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:39,852 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:40,158 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:40,474 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:40,799 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:41,103 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:41,396 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:41,714 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:27:42,018 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Mihnea\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+OSError: [WinError 10022] An invalid argument was supplied
+2025-10-17 22:29:09,190 - logo-similarity - INFO - Processing batch 10/44
+2025-10-17 22:29:31,659 - logo-similarity - INFO - Processing batch 11/44
+2025-10-17 22:30:14,802 - logo-similarity - INFO - Logo Similarity Clustering Pipeline
+2025-10-17 22:30:14,802 - logo-similarity - INFO - ===========================================================
+2025-10-17 22:30:14,802 - logo-similarity - INFO - Loading domains from logos.snappy.parquet...
+2025-10-17 22:30:15,033 - logo-similarity - INFO - Loaded 4384 domains
+2025-10-17 22:30:15,034 - logo-similarity - INFO - Extracting logos from 4384 domains...
+2025-10-17 22:30:15,043 - logo-similarity - INFO - Processing batch 1/44
+2025-10-17 22:31:47,197 - logo-similarity - INFO - Processing batch 2/44
+2025-10-17 22:33:22,203 - logo-similarity - INFO - Processing batch 3/44
+2025-10-17 22:34:52,196 - logo-similarity - INFO - Processing batch 4/44
+2025-10-17 22:36:28,198 - logo-similarity - INFO - Processing batch 5/44
+2025-10-17 22:38:01,205 - logo-similarity - INFO - Processing batch 6/44
+2025-10-17 22:39:34,203 - logo-similarity - INFO - Processing batch 7/44
+2025-10-17 22:41:04,192 - logo-similarity - INFO - Processing batch 8/44
+2025-10-17 22:42:36,200 - logo-similarity - INFO - Processing batch 9/44
+2025-10-17 22:44:07,192 - logo-similarity - INFO - Processing batch 10/44
+2025-10-17 22:45:39,203 - logo-similarity - INFO - Processing batch 11/44
+2025-10-17 22:47:09,194 - logo-similarity - INFO - Processing batch 12/44
+2025-10-17 22:48:43,197 - logo-similarity - INFO - Processing batch 13/44
+2025-10-17 22:50:19,199 - logo-similarity - INFO - Processing batch 14/44
+2025-10-17 22:51:50,200 - logo-similarity - INFO - Processing batch 15/44
+2025-10-17 22:53:21,202 - logo-similarity - INFO - Processing batch 16/44
+2025-10-17 22:54:52,186 - logo-similarity - INFO - Processing batch 17/44
+2025-10-17 22:56:28,195 - logo-similarity - INFO - Processing batch 18/44
+2025-10-17 22:58:06,198 - logo-similarity - INFO - Processing batch 19/44
+2025-10-17 22:59:42,191 - logo-similarity - INFO - Processing batch 20/44
+2025-10-17 23:01:19,204 - logo-similarity - INFO - Processing batch 21/44
+2025-10-17 23:02:56,195 - logo-similarity - INFO - Processing batch 22/44
+2025-10-17 23:04:30,202 - logo-similarity - INFO - Processing batch 23/44
+2025-10-17 23:06:06,192 - logo-similarity - INFO - Processing batch 24/44
+2025-10-17 23:07:36,198 - logo-similarity - INFO - Processing batch 25/44
+2025-10-17 23:08:09,942 - logo-similarity - INFO - Processing batch 26/44
+2025-10-17 23:08:39,275 - logo-similarity - INFO - Processing batch 27/44
+2025-10-17 23:10:13,191 - logo-similarity - INFO - Processing batch 28/44
+2025-10-17 23:11:44,198 - logo-similarity - INFO - Processing batch 29/44
+2025-10-17 23:12:16,163 - logo-similarity - INFO - Processing batch 30/44
+2025-10-17 23:13:49,196 - logo-similarity - INFO - Processing batch 31/44
+2025-10-17 23:15:19,190 - logo-similarity - INFO - Processing batch 32/44
+2025-10-17 23:16:55,193 - logo-similarity - INFO - Processing batch 33/44
+2025-10-17 23:18:30,193 - logo-similarity - INFO - Processing batch 34/44
+2025-10-17 23:20:00,194 - logo-similarity - INFO - Processing batch 35/44
+2025-10-17 23:21:34,202 - logo-similarity - INFO - Processing batch 36/44
+2025-10-17 23:23:11,203 - logo-similarity - INFO - Processing batch 37/44
+2025-10-17 23:24:42,179 - logo-similarity - INFO - Processing batch 38/44
+2025-10-17 23:26:12,196 - logo-similarity - INFO - Processing batch 39/44
+2025-10-17 23:27:46,201 - logo-similarity - INFO - Processing batch 40/44
+2025-10-17 23:29:23,196 - logo-similarity - INFO - Processing batch 41/44
+2025-10-17 23:30:57,203 - logo-similarity - INFO - Processing batch 42/44
+2025-10-17 23:32:35,181 - logo-similarity - INFO - Processing batch 43/44
+2025-10-17 23:34:05,201 - logo-similarity - INFO - Processing batch 44/44
+2025-10-17 23:35:35,239 - logo-similarity - INFO - Extracted 3416/4384 logos (77.9%)
+2025-10-17 23:35:35,239 - logo-similarity - INFO - Processing 3416 logo images...
+2025-10-17 23:39:24,675 - logo-similarity - INFO - Successfully processed 2545/3416 logos (74.5%)
+2025-10-17 23:39:24,677 - logo-similarity - INFO - Clustering logos by similarity...
+2025-10-17 23:39:24,678 - src.clusterer - INFO - Clustering 2545 domains with valid logo hashes
+2025-10-17 23:41:26,988 - src.clusterer - INFO - Found 1032 clusters
+2025-10-17 23:41:26,994 - logo-similarity - INFO - Found 1032 clusters
+2025-10-17 23:41:26,995 - logo-similarity - INFO - Writing outputs to F:\Proiecte\logoSimilarity-feature-production-implementation\logoSimilarity-feature-production-implementation\output
+2025-10-17 23:41:27,126 - logo-similarity - INFO - - clusters.json: 1032 clusters
+2025-10-17 23:41:27,126 - logo-similarity - INFO - - clusters.csv: 2545 domain-cluster mappings
+2025-10-17 23:41:27,128 - logo-similarity - INFO - ===========================================================
+2025-10-17 23:41:27,128 - logo-similarity - INFO - Pipeline Complete!
+2025-10-17 23:41:27,128 - logo-similarity - INFO - Total domains: 4384
+2025-10-17 23:41:27,128 - logo-similarity - INFO - Logos extracted: 3416
+2025-10-17 23:41:27,128 - logo-similarity - INFO - Logos processed: 2545
+2025-10-17 23:41:27,129 - logo-similarity - INFO - Clusters found: 1032
+2025-10-17 23:41:27,129 - logo-similarity - INFO - ===========================================================
