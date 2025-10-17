@@ -119,35 +119,6 @@ Files are written at the end of the run (after extraction, hashing and clusterin
 
 ---
 
-Tuning & performance tips
-- Batch size:
-  - Larger batch sizes reduce total batches but increase per-batch work.
-  - Typical values: 50–150. On small machines use lower values (20–50).
-- Concurrency:
-  - MAX_CONCURRENT controls simultaneous HTTP connections.
-  - On Windows use conservative values: 10–30.
-- Timeouts & retries:
-  - Use TIMEOUT = 6–10s and MAX_RETRIES = 0–1 for faster failover on slow or blocking sites.
-- Hash chunking:
-  - HASH_CHUNK_SIZE prevents scheduling too many image tasks at once (helpful on Windows).
-- Network:
-  - Use a reliable network. If you run from behind corporate proxies or firewalls, configure them or run from a different network.
-
----
-
-Windows notes & common issues
-- You may see repeated asyncio Proactor callback errors like:
-  OSError: [WinError 10022] An invalid argument was supplied
-  These are typically non-fatal logs caused by remote connection resets and the Windows Proactor event loop. They can be reduced by:
-  - lowering MAX_CONCURRENT
-  - reducing TIMEOUT and MAX_RETRIES
-  - using a TCPConnector with limited connections
-- Do NOT switch to the Selector loop on Windows unless you also reduce concurrency to avoid select() file descriptor limits.
-- If log spam is too noisy during debugging, temporarily silence asyncio logging in `main.py`:
-  logging.getLogger('asyncio').setLevel(logging.CRITICAL)
-
----
-
 Troubleshooting
 - No output files:
   - Confirm the run completed and you saw the "Writing outputs to ..." log line.
@@ -169,24 +140,6 @@ Development & tests
 - To test changes quickly, create a very small input Parquet (10–50 domains) and run with small batch-size and concurrency:
   py main.py --input logos.small.parquet --batch-size 5 --max-concurrent 5 --output ./output-test
 
----
-
-Contributing
-- Contributions, bug reports and suggestions are welcome.
-- Open issues describing the problem, logs and steps to reproduce.
-- For code changes, please open a pull request with a clear description and small, focused changes.
-
----
-
-License
-- Please add the appropriate license file to the repo (LICENSE). If you’d like a suggestion, use MIT or Apache-2.0.
-
----
-
-Contact / support
-- If you hit a bug: open an issue and include:
-  - command run, full console logs (or tail of the log), Python version, OS, and small reproduction dataset if possible.
-- For urgent help paste the last 50 lines of the console log and I can help debug.
 
 ---
 
